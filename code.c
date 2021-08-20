@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-//Developed by yogesh
+//Developed by nitish
 int main()
 {
     int i,j,k,x=0;
